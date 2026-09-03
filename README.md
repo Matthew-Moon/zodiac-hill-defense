@@ -4,7 +4,7 @@
 
 ```
 zhd-server/
-├─ server.js            서버 (게임 파일 서빙 + 방 코드 연결용 시그널)
+├─ server.js            서버 (게임 파일 서빙 + 방 코드 릴레이: 모든 게임 데이터를 서버가 중계)
 ├─ package.json
 ├─ README.md            이 문서
 └─ public/
